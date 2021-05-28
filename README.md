@@ -1,2 +1,2 @@
-# OpenCord
+# Opencord
 Open source Discord alternative.
